@@ -1,0 +1,5 @@
+name: limberduck
+title: LimberDuck
+version: ~
+nav:
+- modules/ROOT/nav.adoc
